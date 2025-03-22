@@ -3,4 +3,4 @@ Repozitorij sadrži završni projekt i rješenja zadataka kolegija Razvoj Račun
 
 U završnom projektu razvijena je 2D interaktivna igra "Dungeon Escape", koja je RPG tipa.
 
-Sve igre se nalaze na Unity Play stranici, gdje se mogu isprobati. Link do svake igre će se nalaziti u prikladnoj mapi.
+Sve igre se nalaze na Unity Play stranici, gdje se mogu isprobati. Link do svake igre će se nalaziti u prikladnoj mapi, zajedno s pripadajućim dokumentima i skriptama.
